@@ -1,0 +1,26 @@
+
+body{
+    background-color : rgb(31, 155, 27);
+}
+
+.container{
+    background-color: blue;
+}
+#header{
+    background-color: pink;
+}
+
+#l_box {
+    background-color: yellow;
+    text-align: center;
+    margin: 2px;
+    float : left;
+    width: 45%;
+}
+#r_box{
+    background-color: aqua;
+    float: right;
+    width: 45%;
+    margin: 2px;
+}
+
